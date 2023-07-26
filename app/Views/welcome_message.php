@@ -225,7 +225,7 @@
         <h2>The small framework with powerful features</h2>
 
     </div>
-
+<p>ini p</p>
 </header>
 
 <!-- CONTENT -->
